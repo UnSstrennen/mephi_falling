@@ -8,4 +8,4 @@
 ## Описание математической модели падающего тела
 
 Падение тела как физическое явление есть равнопеременное движение под действием силы тяжести **g**. Сила тяжести является определённой постоянной величиной для планет Солнечной Системы.
-Для расчёта времени, [img]http://www.sciweavers.org/tex2img.php?eq=%20%5Csum_a%5Eb%20x&bc=White&fc=Black&im=png&fs=12&ff=arev&edit=0[/img]
+Для расчёта времени, ![img](http://www.sciweavers.org/tex2img.php?eq=%20%5Csum_a%5Eb%20x&bc=White&fc=Black&im=png&fs=12&ff=arev&edit=0)
